@@ -1,0 +1,24 @@
+{
+  "name": "komechan-cli",
+  "version": "1.0.0",
+  "bin": {
+    "komechan": "bin/cli.js"
+  },
+  "description": "meeting pretty golden retriever",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hxrxchang/komechan-cli.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "hxrxchang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hxrxchang/komechan-cli/issues"
+  },
+  "homepage": "https://github.com/hxrxchang/komechan-cli#readme",
+  "dependencies": {
+    "open": "^7.0.2"
+  }
+}
